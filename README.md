@@ -30,6 +30,7 @@ found in this repository as well.
   - [School Projects](#school-projects)
   - [Personal Projects](#personal-projects)
 - [Career Links](#career-links)
+- [License](#license)
 ------
 
 <a href="educational-oppportunities"></a>
@@ -433,3 +434,7 @@ Below are some referral links to some of Two Sigma's openings:
 - [SWE Intern @ Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=8471&source=Conference&tags=dianainitiative2021)
 - [New Grad SWE @ Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=8473&source=Conference&tags=dianainitiative2021)
 - [General Experienced SWE @ Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=389&source=Conference&tags=dianainitiative2021)
+
+<a href="license"></a>
+## License
+Attribution-NonCommercial-ShareAlike 2.0 Generic (CC BY-NC-SA 2.0)

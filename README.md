@@ -91,7 +91,7 @@ these references:
   Kind of old, but it's very high-level, and a pretty good intro.
 - [TaoSecurity](https://www.taosecurity.com/) - Bejtlich has written
   a ton of good books. *Tao of Network Security Monitoring* is a good
-  place to start if not the newer [*The Practice of Network Security Monitoring*](https://www.amazon.com/s?k=the+practice+of+network+security+monitoring&i=stripbooks&language=en_US&crid=1GTOOS8ID9FEO&linkCode=sl2&linkId=212953637424e9ec172331c38d8bf1a2&sprefix=the+practice+of+network%2Cstripbooks%2C115&tag=taosecurity0c-20&ref=nb_sb_ss_i_1_23).
+  place to start if not the newer [*The Practice of Network Security Monitoring*](https://nostarch.com/nsm).
 - [Hacking: The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/ref=sr_1_1?keywords=hacking%3A+the+art+of+exploitation&qid=1580755998&s=books&sr=1-1) -
   A deep, technical book that covers the first tech principles of modern
   security issues.
@@ -267,7 +267,7 @@ I think there's no denying that certifications and studying for them
 can really only benefit you. 
 
 There are a lot of different certifications out there. 
-[I mean a LOT](https://www.google.com/search?q=paul+jeremy+certification+roadmap&oq=pauljerimy+cer&aqs=chrome.1.69i57j0i10.5121j0j7&sourceid=chrome&ie=UTF-8).
+[I mean a LOT](https://pauljerimy.com/security-certification-roadmap/).
 Definitely pursue what is most interesting and relevant, but for
 something introductory I often see 
 [CompTIA Network+](https://www.comptia.org/certifications/network)
